@@ -95,7 +95,7 @@ export default function Home() {
           </p>
           
           <a
-            href="Signup/"
+            href="signup/"
             className="border-2 border-white rounded-full px-12 py-2 inline-block font-semibold hover:bg-white hover:text-blue-500"
           >
             Sign up
