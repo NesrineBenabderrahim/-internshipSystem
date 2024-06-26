@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 import { MdLockOutline, MdPersonOutline } from "react-icons/md";
 
-export default function Signup() {
+ function Signup() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gray-100">
       <Head>
@@ -94,3 +94,4 @@ export default function Signup() {
     </div>
   );
 }
+export default Signup;
