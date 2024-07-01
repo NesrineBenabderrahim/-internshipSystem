@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import Head from "next/head";
 import {
   FaFacebookF,
@@ -83,7 +83,7 @@ export default function Signup() {
               To keep connected with us please login with your personal info.
             </p>
             <a
-              href="#"
+              href="/"
               className="border-2 border-white rounded-full px-12 py-2 inline-block font-semibold hover:bg-white hover:text-blue-500"
             >
               Sign In
@@ -95,3 +95,4 @@ export default function Signup() {
   );
 }
   ;
+ 
